@@ -1,0 +1,3 @@
+chmod + x go_mod_vendor.sh
+echo "start .githooks"
+./go_mod_vendor.sh
